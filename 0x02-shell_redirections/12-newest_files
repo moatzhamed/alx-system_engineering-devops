@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-l  ./ -Artls | tail -10
+ls -l  ./ -Artls | tail -n 10
