@@ -1,1 +1,1 @@
-shell redirection project
+New project
